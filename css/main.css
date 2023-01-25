@@ -1,0 +1,30 @@
+
+
+
+ul{
+
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+ 
+body{
+    font-family: 'Mulish' sans-serif;
+}
+
+
+ /*header start*/
+
+.link{
+    /* 1f1534-hyfen */
+
+color: #1F1534;
+
+opacity: 0.5;
+}
+
+.link-active{
+    opacity:1 
+}
